@@ -1,5 +1,5 @@
-# Minjak Consultancy ELK use
-The content of this repository helps to easily put some data into elasticsearch.
+# Parsing Oracle Database and Fusion Middleware log-files into the  ELK use
+The content of this repository helps to easily put some logfiles from oracle into elasticsearch.
 
 I have used them inside a vbox environment:
 
