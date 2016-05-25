@@ -1,4 +1,4 @@
-# Parsing Oracle Database and Fusion Middleware log-files into the  ELK use
+# Parsing Oracle Database and Fusion Middleware log-files into Elasticsearch
 The content of this repository helps to easily put some logfiles from oracle into elasticsearch.
 
 I have used them inside a vbox environment:
@@ -7,7 +7,7 @@ I have used them inside a vbox environment:
 
 2. installed docker
 
-3. pulled docker elk image
+3. pulled docker elk image 
 
 4. start elk image
 
